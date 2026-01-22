@@ -100,7 +100,7 @@ These visualizations help illustrate the influence of outliers on the dataset.
 
 ## How to Run
 1. Clone the repository
-2. Place `Data1.txt` in the project directory
+2. Place `EnhancedData.txt` in the project directory
 3. Open the Jupyter Notebook
 4. Run all cells to reproduce the analysis and visualizations
 
